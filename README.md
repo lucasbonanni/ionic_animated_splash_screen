@@ -1,0 +1,1 @@
+# ionic_animated_splash_screen
